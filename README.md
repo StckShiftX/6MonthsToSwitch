@@ -1,2 +1,4 @@
-# 6MonthsToSwitch
-New profile, new mission: I’m StackShiftX, embarking on a 6-month quest to become a full-stack developer!
+# StackShiftX - Day 1: The Mission Launches  
+**April 1, 2025**  
+I’m StackShiftX, kicking off a 6-month journey to master full-stack dev with AI expertise. Today: built a starter project. Targeting smart, scalable tech!  
+#FullStackDev #WebDev #AI
